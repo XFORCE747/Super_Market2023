@@ -1,0 +1,58 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.exe.licenses
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_cat_add.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.frm_login.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_pro_add.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_sale_add.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.frm_main.frm_main_App.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_inv.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_cust.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_data_cust.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.FormMainMenu.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_fetch_cust.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_req.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_loan.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\bin\Debug\XanderUI_V2.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.lodingProgress.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.application
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.TrustInfo.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.application
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_cust.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_cat_add.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_data_cust.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_fetch_cust.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_inv.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.FormMainMenu.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_loan.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_pro_add.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_req.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_sale_add.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.frm_login.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.frm_main.frm_main_App.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.lodingProgress.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Properties.Resources.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.exe.licenses
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.TrustInfo.xml
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.exe
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.pdb
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.exe.config
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.exe.manifest
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.application
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.exe
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\bin\Debug\Super_Market2023.pdb
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.exe.manifest
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.application
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_setting.resources
+C:\Users\Admin\Desktop\back2\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Super_Market2023\Super_Market2023\obj\Debug\Super_Market2023.Forms.frm_setting.resources

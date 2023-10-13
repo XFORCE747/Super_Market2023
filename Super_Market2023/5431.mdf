@@ -1,0 +1,7 @@
+USE [master]
+GO
+
+/****** Object:  Database [Super_market_2023]    Script Date: 05/10/2023 2:31:02 am ******/
+DROP DATABASE [Super_market_2023]
+GO
+

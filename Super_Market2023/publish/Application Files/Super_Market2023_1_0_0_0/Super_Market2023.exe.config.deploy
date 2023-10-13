@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Super_market_2023ConnectionString"
+            connectionString="Data Source=X-FORCE\\SQLEXPRESS;Initial Catalog=Super_market_2023;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>
